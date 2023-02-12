@@ -1,0 +1,1 @@
+Launch main method from Starter/Starter.java
